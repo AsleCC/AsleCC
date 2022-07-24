@@ -1,6 +1,6 @@
 <h1 align="center"> Hola soy <b>Jorge Javier</b>, o también conocido como <b>AsleCC</b></h1>
 
-## Sobre mi
+## Sobre mí
 
 Hola soy Jorge J - un desarrollador principiante con aspiración a aprender, nacido en Valencia y viviendo en León. 
 
@@ -13,7 +13,7 @@ Hola soy Jorge J - un desarrollador principiante con aspiración a aprender, nac
 ## Habilidades
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
