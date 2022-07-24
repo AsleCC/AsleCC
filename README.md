@@ -11,8 +11,8 @@ Hola soy Jorge J - un desarrollador principiante con aspiración a aprender, nac
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeejav/)
 
 ## Habilidades
-![C#](https://img.shields.io/badge/-C%23-903BA7?style=flat&logo=C-Sharp&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)
