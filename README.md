@@ -8,7 +8,7 @@ Hola soy Jorge J - un desarrollador principiante con aspiración a aprender, nac
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorgejavier2001@gmail.com)
 ![Discord](https://img.shields.io/badge/AsleCC%237960-5965F1?style=flat&logo=Discord&logoColor=white)
-[![Instagram](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat&logo=Twitter&logoColor=white)](https://www.instagram.com/jorgeejav/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeejav/)
 
 ## Habilidades
 ![C#](https://img.shields.io/badge/-C%23-903BA7?style=flat&logo=C-Sharp&logoColor=FFFFFF)
