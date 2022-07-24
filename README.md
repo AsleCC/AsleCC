@@ -4,8 +4,6 @@
 
 Hola soy Jorge J - un desarrollador principiante con aspiración a aprender, nacido en Valencia y viviendo en León. 
 
-I am experienced in full stack web, desktop application and indepedent game development. I also have experience producing video content from trailers to documentaries, as well as doing freelance graphic design.
-
 ## Contactame
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorgejavier2001@gmail.com)
